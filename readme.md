@@ -62,14 +62,14 @@ The visualization demonstrates:
 - Real-time tracking of multiple subjects
 - Robust pose estimation across different views
 
-#### System Demo
+<!-- #### System Demo
 [Watch Demo Video](assert/videos/3d_pose.mp4)
 
 The demo video showcases:
 - Real-time multi-person tracking
 - Cross-view consistency
 - Smooth 3D pose reconstruction
-- System performance at over 100 FPS
+- System performance at over 100 FPS -->
 
 ### Key Features Demonstrated
 1. Multi-view synchronized capture
