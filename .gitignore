@@ -46,6 +46,7 @@ output/
 # Data
 Campus_Seq1/
 Campus_Seq1.tar.gz
+data/
 *.log
 *.mp4
 *.pdf
